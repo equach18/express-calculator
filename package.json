@@ -1,0 +1,14 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "Performs three statistical operations given an arbitrary amount of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elaine Quach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
